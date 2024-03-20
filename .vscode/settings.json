@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "2.0- Rocket Race (Using Move Scripts).sln"
+    "dotnet.defaultSolution": "UL02--Rocket-Race.sln"
 }
